@@ -21,3 +21,12 @@ permet de pousser les modifications en ligne
 
 ## git log
 permet de voir les differentes modifications effectuées en local
+
+## git branch
+permet de lister les branches
+
+## git branch 'nom branch'
+permet de creer une nouvelle branche
+
+## git checkout 'nom branch'
+permet de se positionner sur une branche

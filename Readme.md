@@ -29,4 +29,13 @@ permet de lister les branches
 permet de creer une nouvelle branche
 
 ## git checkout 'nom branch'
-permet de se positionner sur une branche
+- permet de se positionner sur une branche
+- il permet avec l'option -b de creer la branche quand elle n'existe pas 
+
+## git pull
+permet de recuperer les modifications distantes
+
+## git rebase
+- permet de recuperer les modifications de la branche mere
+- Les modifications de la branche mere sont placées en dessous des modifications de la branche courante.
+- Les modifications de la branche courante sont placées au dessus des modifications de la branche mere. 

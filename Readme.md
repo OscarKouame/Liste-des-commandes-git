@@ -40,7 +40,7 @@ permet de recuperer les modifications distantes
 - Les modifications de la branche mere sont placées en dessous des modifications de la branche courante.
 - Les modifications de la branche courante sont placées au dessus des modifications de la branche mere. 
 
-## git rebase
+## git merge
 - permet de fusionner le contenu de deux branches.
 - L'ordre des commits n'est pas toujours sauvegardé.
 - Pour concerver l'ordre il faut utiliser l'option --no-ff.
